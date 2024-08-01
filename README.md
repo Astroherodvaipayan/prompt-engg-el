@@ -6,22 +6,6 @@
 
 This repository contains the code and instructions needed to build a sophisticated answer engine that leverages the capabilities of [Groq](https://www.groq.com/), [Mistral AI's Mixtral](https://mistral.ai/news/mixtral-of-experts/), [Langchain.JS](https://js.langchain.com/docs/), [Brave Search](https://search.brave.com/), [Serper API](https://serper.dev/), and [OpenAI](https://openai.com/). Designed to efficiently return sources, answers, images, videos, and follow-up questions based on user queries, this project is an ideal starting point for developers interested in natural language processing and search technologies.
 
-## YouTube Tutorials
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://youtu.be/43ZCeBTcsS8">
-        <img src="https://img.youtube.com/vi/43ZCeBTcsS8/0.jpg" alt="Tutorial 2" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/kFC-OWw7G8k">
-        <img src="https://img.youtube.com/vi/kFC-OWw7G8k/0.jpg" alt="Tutorial 1" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/kV2U7ttqE-g">
-        <img src="https://img.youtube.com/vi/kV2U7ttqE-g/0.jpg" alt="Tutorial 3" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/3_aNVu6EU3Y">
-        <img src="https://img.youtube.com/vi/3_aNVu6EU3Y/0.jpg" alt="Tutorial 4" style="width: 24%; height: auto;">
-    </a>
-</div>
 
 
 ## Technologies Used
