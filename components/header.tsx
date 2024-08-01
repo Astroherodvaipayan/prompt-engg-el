@@ -13,7 +13,7 @@ export function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-[500] flex items-center justify-between w-full px-4 border-b h-14 shrink-0 dark:bg-slate-800 bg-white backdrop-blur-xl">
+      <header className="sticky top-0 z-[500] flex items-center justify-between w-full px-4 border-b h-14 shrink-0 dark:bg-black bg-white backdrop-blur-xl">
         <div className="flex items-center justify-end space-x-2">
 
           {/* <Sidebar size={24} /> */}
@@ -22,13 +22,13 @@ export function Header() {
           </a>
         </div>
         <span className="inline-flex items-center home-links whitespace-nowrap">
-          <a href="https://developersdigest.tech" rel="noopener" target="_blank">
-            <span className="block sm:inline text-lg sm:text-xl lg:text-2xl font-semibold dark:text-white text-black">answer <span className="linear-wipe">engine</span></span>
-          </a>
+         
+            <span className="block sm:inline text-lg sm:text-xl lg:text-2xl font-semibold dark:text-white text-black">VED AI <span className="linear-wipe"></span></span>
+          
         </span>
         <a
           target="_blank"
-          href="https://git.new/answr"
+          href="https://github.com/Astroherodvaipayan/googlehack--v1"
           rel="noopener noreferrer"
 
         >
