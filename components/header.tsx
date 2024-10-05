@@ -28,7 +28,7 @@ export function Header() {
         </span>
         <a
           target="_blank"
-          href="https://github.com/Astroherodvaipayan/googlehack--v1"
+          href="https://github.com/Astroherodvaipayan/VED"
           rel="noopener noreferrer"
 
         >
